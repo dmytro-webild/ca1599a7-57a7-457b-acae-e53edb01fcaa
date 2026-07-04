@@ -122,7 +122,7 @@ export default function HomePage() {
       description="Our work is measured by the tangible improvements in business performance."
       metrics={[
         {
-          value: "150+",
+          value: "100+",
           description: "Successful projects launched",
         },
         {
