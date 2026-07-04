@@ -10,28 +10,12 @@ export default function TeamSection(): React.JSX.Element {
     <div id="team" data-section="team">
         <SectionErrorBoundary name="team">
               <TeamOverlayCards
-          tag="The Visionaries"
-          title="Meet the Team Behind Your Results"
-          description="We are a tight-knit team of strategists, designers, and developers dedicated to your success."
-          members={[
-            {
-              name: "Sarah Miller",
-              role: "Creative Director",
-              imageSrc: "http://img.b2bpic.net/free-photo/portrait-handsome-bearded-man-with-ear-bandage-art-studio_23-2149705903.jpg",
-            },
-            {
-              name: "David Chen",
-              role: "Lead Developer",
-              imageSrc: "http://img.b2bpic.net/free-photo/businesswoman-planning-financial-investment-report_482257-77714.jpg",
-            },
-            {
-              name: "",
-              role: "",
-              imageSrc: "",
-            },
-          ]}
-          textAnimation="fade-blur"
-        />
+        tag="The Visionaries"
+        title="Meet the Team Behind Your Results"
+        description="We are a tight-knit team of strategists, designers, and developers dedicated to your success."
+        members={[{"role":"Creative Director","imageSrc":"http://img.b2bpic.net/free-photo/portrait-handsome-bearded-man-with-ear-bandage-art-studio_23-2149705903.jpg","name":"Sarah Miller"},{"imageSrc":"http://img.b2bpic.net/free-photo/businesswoman-planning-financial-investment-report_482257-77714.jpg","name":"David Chen","role":"Lead Developer"}]}
+        textAnimation="fade-blur"
+      />
         </SectionErrorBoundary>
       </div>
   );
