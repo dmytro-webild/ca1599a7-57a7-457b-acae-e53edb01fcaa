@@ -7,7 +7,7 @@ export default function HeroSection(): React.JSX.Element {
   return (
     <div data-webild-section="hero" data-section="hero" id="hero">
       <HeroSplitVerticalMarquee
-        rightItems={[{"imageSrc":"https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=800&q=80"},{"imageSrc":"https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80"},{"imageSrc":"https://storage.googleapis.com/webild/users/user_3G2Ozqag2ovb8not76KWtboL8LU/uploaded-1783203174492-g0g1g8cl.jpg"}]}
+        rightItems={[{"imageSrc":"https://storage.googleapis.com/webild/users/user_3G2Ozqag2ovb8not76KWtboL8LU/uploaded-1783203211212-gz6edipc.jpg"},{"imageSrc":"https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80"},{"imageSrc":"https://storage.googleapis.com/webild/users/user_3G2Ozqag2ovb8not76KWtboL8LU/uploaded-1783203174492-g0g1g8cl.jpg"}]}
         primaryButton={{"text":"Start Your Project","href":"#contact"}}
         title="Your Vision, Built Digital."
         textAnimation="fade-blur"
