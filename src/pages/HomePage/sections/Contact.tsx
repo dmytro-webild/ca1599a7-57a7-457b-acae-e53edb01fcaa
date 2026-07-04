@@ -14,7 +14,7 @@ export default function ContactSection(): React.JSX.Element {
           text="Ready to build your digital future? Let's discuss your next project."
           primaryButton={{
             text: "Book a Consultation",
-            href: "#contact",
+            href: "https://calendly.com/visionweb-tn/30min",
           }}
           secondaryButton={{
             text: "Email Us",
