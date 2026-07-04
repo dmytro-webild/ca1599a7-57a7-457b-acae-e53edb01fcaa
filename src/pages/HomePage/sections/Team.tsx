@@ -7,11 +7,11 @@ export default function TeamSection(): React.JSX.Element {
   return (
     <div data-webild-section="team" data-section="team" id="team">
       <TeamListCards
-        tag="…"
-        title="…"
-        description="…"
+        tag="Our Team"
+        title="Meet the Team"
+        description="We are a group of passionate individuals."
         groups={[]}
-        textAnimation="…"
+        textAnimation="slide-up"
       />
     </div>
   );
