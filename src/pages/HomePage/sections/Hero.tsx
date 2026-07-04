@@ -13,7 +13,7 @@ export default function HeroSection(): React.JSX.Element {
         textAnimation="fade-blur"
         secondaryButton={{"href":"#showcase","text":"View Case Studies"}}
         description="VisionWeb transforms ambitious ideas into high-performing websites. We combine strategic design with conversion-focused development to drive real business results."
-        leftItems={[{"imageSrc":"https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80"},{"imageSrc":"https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=800&q=80"},{"imageSrc":"https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=800&q=80"}]}
+        leftItems={[{"imageSrc":"https://storage.googleapis.com/webild/users/user_3G2Ozqag2ovb8not76KWtboL8LU/uploaded-1783203012436-9ngcm97o.jpg"},{"imageSrc":"https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=800&q=80"},{"imageSrc":"https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=800&q=80"}]}
         tag="VisionWeb"
       />
     </div>
