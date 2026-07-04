@@ -25,8 +25,8 @@ export default function TeamSection(): React.JSX.Element {
               imageSrc: "http://img.b2bpic.net/free-photo/businesswoman-planning-financial-investment-report_482257-77714.jpg",
             },
             {
-              name: "Emily Rodriguez",
-              role: "Strategy Lead",
+              name: "",
+              role: "",
               imageSrc: "",
             },
           ]}
