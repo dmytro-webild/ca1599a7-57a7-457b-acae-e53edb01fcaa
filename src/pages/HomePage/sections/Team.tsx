@@ -27,6 +27,7 @@ export default function TeamSection(): React.JSX.Element {
             {
               name: "Emily Rodriguez",
               role: "Strategy Lead",
+              imageSrc: "",
             },
           ]}
           textAnimation="fade-blur"
