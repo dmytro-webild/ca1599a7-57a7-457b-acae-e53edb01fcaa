@@ -27,7 +27,6 @@ export default function TeamSection(): React.JSX.Element {
             {
               name: "Emily Rodriguez",
               role: "Strategy Lead",
-              imageSrc: "http://img.b2bpic.net/free-photo/portrait-confident-business-woman-with-executive-job-working-with-management-marketing-statistics-computer-office-worker-analyzing-research-charts-data-reports_482257-41126.jpg",
             },
           ]}
           textAnimation="fade-blur"
