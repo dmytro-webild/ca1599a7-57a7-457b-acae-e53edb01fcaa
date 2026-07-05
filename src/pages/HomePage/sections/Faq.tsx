@@ -16,7 +16,7 @@ export default function FaqSection(): React.JSX.Element {
           items={[
             {
               question: "What is your typical project timeline?",
-              answer: "Typical projects range from 8 to 12 weeks depending on scope and complexity.",
+              answer: "Our process is built for speed: your professional website ready in as little as 24 hours. Perfect if you're on a tight deadline and need to launch fast.",
             },
             {
               question: "Do you offer ongoing support?",
