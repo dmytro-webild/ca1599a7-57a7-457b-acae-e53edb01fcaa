@@ -11,7 +11,7 @@ export default function ContactSplitEmailSection(): React.JSX.Element {
         title="Stay in the loop"
         description="Join our newsletter to get the latest updates and exclusive offers directly in your inbox."
         inputPlaceholder="Enter your email address"
-        buttonText="Subscribe"
+        buttonText="whatsapp"
         textAnimation="slide-up"
         imageSrc="https://picsum.photos/seed/1783175454/1200/800"
       />
