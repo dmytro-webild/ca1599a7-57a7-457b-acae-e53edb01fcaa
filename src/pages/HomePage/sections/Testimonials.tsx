@@ -16,7 +16,7 @@ export default function TestimonialsSection(): React.JSX.Element {
           testimonials={[
             {
               name: "Alex Rivers",
-              role: "CEO, Rivers Tech",
+              role: "CEO",
               quote: "VisionWeb transformed our digital presence. We saw immediate ROI after the redesign.",
               imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiley-business-woman_23-2148603029.jpg",
             },
