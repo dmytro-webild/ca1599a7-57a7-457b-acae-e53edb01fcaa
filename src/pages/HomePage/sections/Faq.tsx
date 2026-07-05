@@ -28,7 +28,7 @@ export default function FaqSection(): React.JSX.Element {
             },
             {
               question: "What industries do you serve?",
-              answer: "We focus on technology, professional services, and high-growth retail brands.",
+              answer: "We focus on technology, professional services, and high-growth  brands.",
             },
           ]}
           textAnimation="fade-blur"
