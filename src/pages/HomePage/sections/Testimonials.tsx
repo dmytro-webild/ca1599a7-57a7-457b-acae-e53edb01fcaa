@@ -28,7 +28,7 @@ export default function TestimonialsSection(): React.JSX.Element {
             },
             {
               name: "John Doe",
-              role: "Founder, CloudPeak",
+              role: "Founder",
               quote: "The development team is top-tier. Extremely professional and communicative throughout the process.",
               imageSrc: "http://img.b2bpic.net/free-photo/successful-business-people-with-announcement_53876-15202.jpg",
             },
