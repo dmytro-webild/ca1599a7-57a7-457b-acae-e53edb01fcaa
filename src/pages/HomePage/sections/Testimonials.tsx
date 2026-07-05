@@ -22,7 +22,7 @@ export default function TestimonialsSection(): React.JSX.Element {
             },
             {
               name: "Maria Garcia",
-              role: "Marketing VP, Sol Solutions",
+              role: "Marketing VP",
               quote: "Their strategic approach is unique. They don't just build websites; they build businesses.",
               imageSrc: "http://img.b2bpic.net/free-photo/close-up-competitive-employee_1098-2870.jpg",
             },
