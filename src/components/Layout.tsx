@@ -95,7 +95,7 @@ export default function Layout() {
           ],
         },
       ]}
-      leftText="© 2024 VisionWeb Agency. All rights reserved."
+      leftText="© 2026 VisionWeb Agency. All rights reserved."
       rightText="Crafted with passion in the digital realm."
     />
       </SectionErrorBoundary>
