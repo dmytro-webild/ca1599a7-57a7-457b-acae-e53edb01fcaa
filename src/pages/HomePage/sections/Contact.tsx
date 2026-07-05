@@ -17,8 +17,8 @@ export default function ContactSection(): React.JSX.Element {
             href: "https://calendly.com/visionweb-tn/30min",
           }}
           secondaryButton={{
-            text: "Email Us",
-            href: "visionweb.tn@gmail.com",
+            text: "whatsapp",
+            href: "+216 56688974",
           }}
           textAnimation="slide-up"
         />
