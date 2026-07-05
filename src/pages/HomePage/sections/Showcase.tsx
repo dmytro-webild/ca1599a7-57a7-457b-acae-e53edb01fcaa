@@ -30,7 +30,7 @@ export default function ShowcaseSection(): React.JSX.Element {
               title: "Global SaaS Dashboard",
               description: "Streamlined user workflows significantly.",
               href: "#contact",
-              imageSrc: "http://img.b2bpic.net/free-photo/global-business-strategy-planning-icon-concept_53876-120444.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3G2Ozqag2ovb8not76KWtboL8LU/uploaded-1783254527878-2ywgjatp.jpg",
             },
             {
               title: "Brand Identity Refresh",
