@@ -48,13 +48,13 @@ export default function ShowcaseSection(): React.JSX.Element {
               title: "B2B Lead Portal",
               description: "Optimized lead capture funnels.",
               href: "#contact",
-              imageSrc: "http://img.b2bpic.net/free-photo/support-consulting-help-graphic-icon-word_53876-124360.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3G2Ozqag2ovb8not76KWtboL8LU/uploaded-1783255387966-yjpuemk1.jpg",
             },
             {
               title: "Custom App Interface",
               description: "Intuitive mobile application design.",
               href: "#contact",
-              imageSrc: "http://img.b2bpic.net/free-photo/globe-internet-icon-line-connection-circuit-board_1379-893.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3G2Ozqag2ovb8not76KWtboL8LU/uploaded-1783255465326-16ekbrta.jpg",
             },
           ]}
           textAnimation="fade-blur"
