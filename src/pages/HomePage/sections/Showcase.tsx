@@ -18,7 +18,7 @@ export default function ShowcaseSection(): React.JSX.Element {
               title: "Tech Platform Redesign",
               description: "Increased lead generation by 45%.",
               href: "#contact",
-              imageSrc: "http://img.b2bpic.net/free-photo/still-life-graphic-design-office_23-2151345406.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3G2Ozqag2ovb8not76KWtboL8LU/uploaded-1783255601315-tyfwj7vc.jpg",
             },
             {
               title: "E-commerce Optimization",
