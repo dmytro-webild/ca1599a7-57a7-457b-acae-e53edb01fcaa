@@ -34,7 +34,7 @@ export default function TestimonialsSection(): React.JSX.Element {
             },
             {
               name: "Sarah L.",
-              role: "CMO, GrowthSpurt",
+              role: "CMO",
               quote: "VisionWeb is our long-term partner for everything digital.",
               imageSrc: "http://img.b2bpic.net/free-photo/lady-grey-suit-smiling-camera-background-stylish-cafe-with-lights_291650-637.jpg",
             },
