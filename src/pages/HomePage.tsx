@@ -14,8 +14,7 @@ import TestimonialsSection from './HomePage/sections/Testimonials';
 import FaqSection from './HomePage/sections/Faq';
 import ContactSection from './HomePage/sections/Contact';
 
-
-import ContactSplitEmailSection from './HomePage/sections/ContactSplitEmail';export default function HomePage(): React.JSX.Element {
+export default function HomePage(): React.JSX.Element {
   return (
 <>
   <HeroSection />
@@ -33,7 +32,6 @@ import ContactSplitEmailSection from './HomePage/sections/ContactSplitEmail';exp
   <FaqSection />
 
   <ContactSection />
-          <ContactSplitEmailSection />
     </>
   );
 }
