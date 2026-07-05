@@ -42,7 +42,7 @@ export default function ShowcaseSection(): React.JSX.Element {
               title: "Interactive Content Hub",
               description: "Driving audience engagement.",
               href: "#contact",
-              imageSrc: "http://img.b2bpic.net/free-photo/modern-smartphone-with-blank-screen-studio_187299-46431.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3G2Ozqag2ovb8not76KWtboL8LU/uploaded-1783255273266-raq380ge.jpg",
             },
             {
               title: "B2B Lead Portal",
