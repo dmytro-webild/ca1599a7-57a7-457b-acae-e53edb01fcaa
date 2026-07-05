@@ -24,7 +24,7 @@ export default function ShowcaseSection(): React.JSX.Element {
               title: "E-commerce Optimization",
               description: "Reduced bounce rates by 30%.",
               href: "#contact",
-              imageSrc: "http://img.b2bpic.net/free-photo/programming-background-collage_23-2149901779.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3G2Ozqag2ovb8not76KWtboL8LU/uploaded-1783251235920-e8chdzpa.jpg",
             },
             {
               title: "Global SaaS Dashboard",
