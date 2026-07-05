@@ -40,7 +40,7 @@ export default function TestimonialsSection(): React.JSX.Element {
             },
             {
               name: "Tom Baker",
-              role: "Founder, FinTech Dynamics",
+              role: "Founder",
               quote: "The conversion results exceeded our expectations by far.",
               imageSrc: "http://img.b2bpic.net/free-photo/positive-hipster-entrepreneur-it-expert-software-developer_74855-3635.jpg",
             },
