@@ -21,7 +21,7 @@ export default function TestimonialsSection(): React.JSX.Element {
               imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiley-business-woman_23-2148603029.jpg",
             },
             {
-              name: "Maria Garcia",
+              name: "alex riviers",
               role: "Marketing VP",
               quote: "Their strategic approach is unique. They don't just build websites; they build businesses.",
               imageSrc: "http://img.b2bpic.net/free-photo/close-up-competitive-employee_1098-2870.jpg",
