@@ -36,7 +36,7 @@ export default function ShowcaseSection(): React.JSX.Element {
               title: "Brand Identity Refresh",
               description: "Modernizing a legacy company brand.",
               href: "#contact",
-              imageSrc: "http://img.b2bpic.net/free-vector/20-digital-marketing-solid-glyph-icon-presentation-vector-icons-illustration_1142-17871.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3G2Ozqag2ovb8not76KWtboL8LU/uploaded-1783254756485-d4h2evy9.jpg",
             },
             {
               title: "Interactive Content Hub",
