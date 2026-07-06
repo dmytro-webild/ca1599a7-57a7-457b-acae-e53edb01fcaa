@@ -34,7 +34,9 @@ export default function Layout() {
   {
     "name": "Testimonials",
     "href": "#testimonials"
-  }
+  },
+  { name: "About Vision Web", href: "/about-vision-web" },
+
 ];
 
   return (
