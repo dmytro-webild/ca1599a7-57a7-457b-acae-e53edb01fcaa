@@ -22,7 +22,7 @@ export default function ServicesSection(): React.JSX.Element {
             },
             {
               icon: Code,
-              title: "Web Development",
+              title: "Web instagram",
               description: "High-performance code built for scalability, security, and exceptional user experience on every device.",
             },
             {
