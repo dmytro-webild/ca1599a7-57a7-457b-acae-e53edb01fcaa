@@ -21,7 +21,7 @@ export default function ShowcaseSection(): React.JSX.Element {
               imageSrc: "https://storage.googleapis.com/webild/users/user_3G2Ozqag2ovb8not76KWtboL8LU/uploaded-1783255601315-tyfwj7vc.jpg",
             },
             {
-              title: "E-commerce Optimization",
+              title: "Local Business Growth",
               description: "Reduced bounce rates by 30%.",
               href: "#contact",
               imageSrc: "https://storage.googleapis.com/webild/users/user_3G2Ozqag2ovb8not76KWtboL8LU/uploaded-1783255759459-l81ogd47.jpg",
