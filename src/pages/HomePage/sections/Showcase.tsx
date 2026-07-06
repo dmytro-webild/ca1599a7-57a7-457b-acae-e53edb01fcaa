@@ -51,7 +51,7 @@ export default function ShowcaseSection(): React.JSX.Element {
               imageSrc: "https://storage.googleapis.com/webild/users/user_3G2Ozqag2ovb8not76KWtboL8LU/uploaded-1783255387966-yjpuemk1.jpg",
             },
             {
-              title: "Custom App Interface",
+              title: "Online Booking Solution",
               description: "Intuitive mobile application design.",
               href: "#contact",
               imageSrc: "https://storage.googleapis.com/webild/users/user_3G2Ozqag2ovb8not76KWtboL8LU/uploaded-1783255465326-16ekbrta.jpg",
