@@ -17,7 +17,7 @@ export default function ServicesSection(): React.JSX.Element {
           features={[
             {
               icon: Layout,
-              title: "Web twitter",
+              title: "Web Design",
               description: "Crafting intuitive and aesthetically pleasing digital experiences that resonate with your target users.",
             },
             {
