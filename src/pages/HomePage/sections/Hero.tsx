@@ -11,7 +11,7 @@ export default function HeroSection(): React.JSX.Element {
         primaryButton={{"text":"Start Your Project","href":"#contact"}}
         title="Your Vision, Built Digital."
         textAnimation="fade-blur"
-        secondaryButton={{"href":"#showcase","text":"View Case Studies"}}
+        secondaryButton={{"href":"#showcase","text":"View facebook"}}
         description="VisionWeb transforms ambitious ideas into high-performing websites. We combine strategic design with conversion-focused development to drive real business results."
         leftItems={[{"imageSrc":"https://storage.googleapis.com/webild/users/user_3G2Ozqag2ovb8not76KWtboL8LU/uploaded-1783203012436-9ngcm97o.jpg"},{"imageSrc":"https://storage.googleapis.com/webild/users/user_3G2Ozqag2ovb8not76KWtboL8LU/uploaded-1783203084045-butrm1cx.jpg"},{"imageSrc":"https://storage.googleapis.com/webild/users/user_3G2Ozqag2ovb8not76KWtboL8LU/uploaded-1783203050655-38nknzxz.jpg"}]}
         tag="VisionWeb"
