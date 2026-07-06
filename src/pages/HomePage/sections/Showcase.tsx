@@ -15,8 +15,8 @@ export default function ShowcaseSection(): React.JSX.Element {
           description="Explore how we've helped SMBs scale through design-led innovation."
           items={[
             {
-              title: "Tech Platform Redesign",
-              description: "Increased lead generation by 45%.",
+              title: "Digital Presence Revamp",
+              description: "Boosted customer engagement by 35%. ",
               href: "#contact",
               imageSrc: "https://storage.googleapis.com/webild/users/user_3G2Ozqag2ovb8not76KWtboL8LU/uploaded-1783255601315-tyfwj7vc.jpg",
             },
