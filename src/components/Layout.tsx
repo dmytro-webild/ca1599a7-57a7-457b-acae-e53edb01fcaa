@@ -56,7 +56,7 @@ export default function Layout() {
         <FooterBasic
       columns={[
         {
-          title: "Company",
+          title: "contact",
           items: [
             {
               label: "About Us",
