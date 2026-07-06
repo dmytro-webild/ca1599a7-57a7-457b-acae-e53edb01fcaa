@@ -33,8 +33,8 @@ export default function ShowcaseSection(): React.JSX.Element {
               imageSrc: "https://storage.googleapis.com/webild/users/user_3G2Ozqag2ovb8not76KWtboL8LU/uploaded-1783254527878-2ywgjatp.jpg",
             },
             {
-              title: "Brand Identity Refresh",
-              description: "Modernizing a legacy company brand.",
+              title: "Website Redesign & Launch",
+              description: "Doubled website traffic in 2 months. ",
               href: "#contact",
               imageSrc: "https://storage.googleapis.com/webild/users/user_3G2Ozqag2ovb8not76KWtboL8LU/uploaded-1783254756485-d4h2evy9.jpg",
             },
