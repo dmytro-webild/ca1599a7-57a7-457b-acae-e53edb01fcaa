@@ -27,8 +27,8 @@ export default function ShowcaseSection(): React.JSX.Element {
               imageSrc: "https://storage.googleapis.com/webild/users/user_3G2Ozqag2ovb8not76KWtboL8LU/uploaded-1783255759459-l81ogd47.jpg",
             },
             {
-              title: "Global SaaS Dashboard",
-              description: "Streamlined user workflows significantly.",
+              title: "Local SEO & Visibility",
+              description: "Increased local search rankings by 60%. ",
               href: "#contact",
               imageSrc: "https://storage.googleapis.com/webild/users/user_3G2Ozqag2ovb8not76KWtboL8LU/uploaded-1783254527878-2ywgjatp.jpg",
             },
